@@ -1,6 +1,6 @@
 .nav {
   text-align: center;
-  background-color: #F0EAE9;
+  background-color: #F1EEEE;
 }
 
 .page-header {
@@ -8,12 +8,12 @@
 }
 
 .container {
-background-color: #E5DCDA  ;
+background-color: #F8F5F5  ;
 }
 
 .img-responsive {
-  opacity: 0.6;
-  filter: alpha(opacity=60);
+  opacity: 0.7;
+  filter: alpha(opacity=70);
 }
 
 #btn {

@@ -1,8 +1,17 @@
-.nav-bar {
+.nav {
   text-align: center;
-  background-color: #D0CCCC;
+  background-color: #F0EAE9;
 }
 
 .page-header {
   text-align: center;
+}
+
+.container {
+background-color: #E5DCDA  ;
+}
+
+.img-responsive {
+  opacity: 0.6;
+  filter: alpha(opacity=60);
 }

@@ -1,6 +1,6 @@
-.nav {
+.jumbotron {
   text-align: center;
-  background-color: #F1EEEE;
+  background-color: #8FC4C6;
 }
 
 .page-header {
@@ -8,7 +8,7 @@
 }
 
 .container {
-background-color: #F8F5F5  ;
+background-color: white;
 }
 
 .img-responsive {
@@ -22,6 +22,6 @@ background-color: #F8F5F5  ;
 
 }
 
-.nav {
-  font-family: "helvetica neue";
+.page-header {
+
 }

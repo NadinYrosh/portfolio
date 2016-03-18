@@ -15,3 +15,9 @@ background-color: #E5DCDA  ;
   opacity: 0.6;
   filter: alpha(opacity=60);
 }
+
+#btn {
+  color:#B08981;
+  width: 200px;
+
+}

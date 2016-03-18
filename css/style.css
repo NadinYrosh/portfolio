@@ -22,6 +22,18 @@ background-color: white;
 
 }
 
-.page-header {
+.explanation {
+  font-family: Helvetica;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  margin-top: auto;
+  font-size: 120%;
+  border-style: solid;
+  border-width: 3px;
+  border-left-width: 3px;
+  border-right-width: 3px;
+  border-color: #DAEFFC;
 
 }
